@@ -44,7 +44,7 @@ Several machine learning models were compared for MBTI text classification.
 | Logistic Regression | 83.83% |
 | Random Forest | 48.71% |
 
-SVM achieved the best performance among the compared models.
+SVM was used as the main model not only because it produced the strongest validation result, but also because linear-margin methods are well suited to high-dimensional sparse text features, provide a reproducible baseline, and offer a clearer trade-off between generalization and model complexity than heavier alternatives.
 
 ### 4. Hyperparameter optimization
 
@@ -64,8 +64,8 @@ The best reported setting was:
 
 - Proposed a 16-class MBTI classification approach to reduce information loss from independent binary classification.
 - Compared SVM, Logistic Regression, and Random Forest models.
-- Achieved the best performance with SVM.
-- Improved SVM performance through hyperparameter tuning.
+- Used SVM as the main classifier based on its suitability for sparse text features, reproducibility, and validation behavior.
+- Refined the SVM decision boundary through hyperparameter tuning.
 - Presented the project as a poster paper at the Korean Statistical Society.
 
 ## Key Takeaways
