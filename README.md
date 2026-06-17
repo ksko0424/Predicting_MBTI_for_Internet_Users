@@ -77,4 +77,4 @@ The best reported setting was:
 
 ## Related Repository
 
-- Dataton competition version: <https://github.com/ksko0424/Dataton_Competition_2022>
+- Dataton competition version: <https://github.com/ksko0424/dataton-2022-mbti-prediction>
