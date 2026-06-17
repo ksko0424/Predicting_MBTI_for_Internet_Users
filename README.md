@@ -2,7 +2,7 @@
 
 한국통계학회 포스터 논문 발표 프로젝트입니다. 인터넷 사용자가 남긴 텍스트 데이터를 기반으로 별도의 MBTI 검사 없이 MBTI 유형을 예측하는 문제를 다룹니다.
 
-![image](https://user-images.githubusercontent.com/73769046/181724820-38aedc57-d199-40b6-a83a-436131c2899e.png)
+![Predicting MBTI for Internet Users](assets/header.png)
 
 ## Overview
 
